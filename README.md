@@ -1,4 +1,4 @@
 # Love2D-Library
 
-This is both a template and a library.  
+This is just a template.  
 It is designed to start prototyping games quickly.
